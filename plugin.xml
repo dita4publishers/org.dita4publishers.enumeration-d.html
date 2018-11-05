@@ -15,6 +15,7 @@
   <feature extension="package.support.email" value="ekimber@contrext.com"/>
   
   <feature extension="dita.xsl.xhtml" value="xsl/enumerationDomain2html.xsl" type="file"/>  
+  <feature extension="dita.xsl.html5" value="xsl/enumerationDomain2html.xsl" type="file"/>  
   <feature extension="dita.conductor.xhtml.param" value="parameters.xml"
     type="file"
   />
